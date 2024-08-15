@@ -3,7 +3,7 @@ title: "Parallel evolution of oxidized sugar metabolism in commensal and pathoge
 collection: publications
 permalink: /publication/2009-10-01-paper-title-number-1
 excerpt: 'Parallel evolution of oxidized sugar metabolism in commensal and pathogenic microbes exemplifies bacterial adaptation to the inflamed gut'
-date: 2024-06, Under Review
+date: 2024-06-24
 venue: 'Nature Communications'
 slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
 paperurl: 'http://academicpages.github.io/files/paper1.pdf'
