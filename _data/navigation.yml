@@ -1,6 +1,15 @@
 # main links links
 main:
-  - title: "Fun Stuff"
+  - title: "Publications"
+    url: /publications/
+
+  - title: "Teaching"
+    url: /teaching/
+
+  - title: "Talks"
+    url: /talks/
+
+  - title: "Blog"
     url: /year-archive/
     
   - title: "CV"
