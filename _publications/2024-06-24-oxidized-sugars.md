@@ -1,5 +1,5 @@
 ---
-title: "Parallel evolution of oxidized sugar metabolism in commensal and pathogenic microbes exemplifies bacterial adaptation to the inflamed gut."
+title: "Parallel evolution of oxidized sugar metabolism in commensal and pathogenic microbes exemplifies bacterial adaptation to the inflamed gut. (In Review)"
 collection: publications
 permalink: /publication/2024-06-24-oxidized-sugars
 date: 2024-06-24
