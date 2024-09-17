@@ -9,8 +9,6 @@ author_profile: true
   <div class="wordwrap">You can also find my articles on <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.</div>
 {% endif %}
 
-{% include base_path %}
-
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %}
+# In Review
+## 2024
++ Levy S, Jiang A, Grant M, Arp G, Ndjite GM, Jiang XF, Hall B. “Parallel evolution of oxidized sugar metabolism in commensal and pathogenic microbes exemplifies bacterial adaptation to the inflamed gut.” (In Revision)
