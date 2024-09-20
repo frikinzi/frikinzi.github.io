@@ -32,4 +32,9 @@ I have many non-human family members who support me in my Ph.D. journey. Here ar
     <img src="https://frikinzi.github.io/files/tetras.png" alt="8 rummynose tetras" width="150">
     <p align="center"><em>8 rummynose tetras</em></p>
   </div>
+  <div style="margin: 10px;">
+    <img src="https://frikinzi.github.io/files/giratina.png" alt="clown pleco" width="150">
+    <p align="center"><em>Giratina the clown pleco</em></p>
+  </div>
 </div>
+
