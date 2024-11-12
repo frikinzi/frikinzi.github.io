@@ -9,7 +9,7 @@ I am strongly passionate about science communication, both for a general audienc
 
 ## Frikinzi's Fauna
 <img src="https://frikinzi.github.io/files/ff-logo.png" alt="Frikinzi's Fauna logo" width="150">
-<img src="https://frikinzi.github.io/files/mod_downloads.png" alt="Frikinzi's Fauna downloads" width="150">
+<img src="https://frikinzi.github.io/files/mod_downloads.png" alt="Frikinzi's Fauna downloads" width="500">
 
 I programmed a Minecraft avian wildlife mod that has been downloaded over 200k times. It adds a variety of realistic bird species and has an interface to learn more about each species. Check out the [GitHub](https://github.com/frikinzi/frikinzis_fauna) if you're interested! (note: the mod has been moved from Curseforge to Modrinth as of October 2024)
 
