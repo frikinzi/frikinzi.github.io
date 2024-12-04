@@ -1,5 +1,5 @@
 ---
-title: "ABRCMS Poster - Bored in a changing climate: ocean acidification and boring sponge impact on eastern oyster (Crassostrea virginica) gene expression"
+title: "Bored in a changing climate: ocean acidification and boring sponge impact on eastern oyster (Crassostrea virginica) gene expression"
 collection: talks
 type: "Poster Presentation"
 permalink: /talks/2022-abrcms
