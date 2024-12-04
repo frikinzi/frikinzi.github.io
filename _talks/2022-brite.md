@@ -7,4 +7,3 @@ venue: "Boston University"
 date: 2013-03-01
 location: "Boston, Massachusetts"
 ---
-

@@ -9,3 +9,5 @@ location: "Anaheim, California"
 ---
 
 [Abstract Here](https://www.abstractsonline.com/pp8/#!/10750/presentation/2296)
+
+<embed src="https://sites.bu.edu/britereu/files/2023/01/Jiang_BRITE_Poster_Final.pdf" width="1000px" height="800px" />
