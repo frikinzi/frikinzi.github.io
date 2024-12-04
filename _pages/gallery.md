@@ -17,6 +17,18 @@ I have many non-human family members who support me in my Ph.D. journey. Here ar
     <p align="center"><em>Loinkle the Grammastola pulchra</em></p>
   </div>
   <div style="margin: 10px;">
+    <img src="https://frikinzi.github.io/files/pesto.JPG" alt="pesto" width="150">
+    <p align="center"><em>Pesto the Psalmopoeus cambridgei</em></p>
+  </div>
+  <div style="margin: 10px;">
+    <img src="https://frikinzi.github.io/files/meatball.JPG" alt="meatball" width="150">
+    <p align="center"><em>Meatball the Lasiodora parahybana</em></p>
+  </div>
+  <div style="margin: 10px;">
+    <img src="https://frikinzi.github.io/files/jackie.JPG" alt="meatball" width="150">
+    <p align="center"><em>Jackie Lantern the Brachypelma emilia</em></p>
+  </div>
+  <div style="margin: 10px;">
     <img src="https://frikinzi.github.io/files/birbs.png" alt="Radian and Xeno the Fischer's lovebirds" width="150">
     <p align="center"><em>Radian and Xeno the Fischer's lovebirds</em></p>
   </div>

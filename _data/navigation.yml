@@ -12,11 +12,11 @@ main:
   - title: "Talks"
     url: /talks/
 
-  - title: "Gallery"
-    url: /gallery/
-
   - title: "Contribution to Community"
     url: /activities/
     
   - title: "CV"
     url: /cv/
+
+  - title: "Fun Gallery"
+    url: /gallery/
