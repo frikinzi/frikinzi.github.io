@@ -9,7 +9,7 @@ I am strongly passionate about science communication, both for a general audienc
 
 ## Frikinzi's Fauna
 <img src="https://frikinzi.github.io/files/ff-logo.png" alt="Frikinzi's Fauna logo" width="150">
-<img src="https://i.postimg.cc/2yP1h0HT/2025-01-02-21-11-40.png" alt="Guide book" width="900">
+<img src="https://frikinzi.github.io/files/image.png" alt="Guide book" width="900">
 <img src="https://frikinzi.github.io/files/mod_downloads.png" alt="Frikinzi's Fauna downloads" width="900">
 
 
