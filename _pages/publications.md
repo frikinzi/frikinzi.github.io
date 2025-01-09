@@ -15,7 +15,8 @@ author_profile: true
 ## In Review
 ### 2024
 + Arp G, **Jiang A**, Dufault-Thompson K, Levy S, Zhong A, Wassan JT, Grant M, Hall B, Jiang XF. “Gut Bacteria Encode Reductases that Biotransform Steroid Hormones.” (Under Review at *Nature*)
-+ Minabou GM, **Jiang AK**, Ravel CT, Grant MR, Jiang XF, Hall B. “Gut Microbial Utilization of the Alternative Sweetener, D-Allulose, via AlsE” (Submitted)
++ Minabou GM, **Jiang AK**, Ravel CT, Grant MR, Jiang XF, Hall B. “Gut Microbial Utilization of the Alternative Sweetener, D-Allulose, via AlsE” (Under Review at *Communications Biology*)
++ Jiang A, Sehein TR, Gawron R, Katz LA, Maurer-Alcalá X. “Characterizing lineage-specific genes in testate lobose amoebae.” (Submitted to *Protist*)
 
 ## Preprints
 + Arp G, **Jiang A**, Dufault-Thompson K, Levy S, Zhong A, Wassan JT, Grant M, Hall B, Jiang XF. “Gut Bacteria Encode Reductases that Biotransform Steroid Hormones.” bioRxiv, https://doi.org/10.1101/2024.10.04.616736 
