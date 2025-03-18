@@ -14,12 +14,12 @@ author_profile: true
 
 ## In Review
 ### 2025
-+ Jiang A.K., Zhao J, Jiang XF. "EzSEA: An Interactive Web Interface for Enzyme Sequence Evolution Analysis." (Under Review at *Bioinformatics Advances*)
++ **Jiang A.K.**, Zhao J, Jiang XF. "EzSEA: An Interactive Web Interface for Enzyme Sequence Evolution Analysis." (Under Review at *Bioinformatics Advances*)
 
 ### 2024
-+ Arp G, **Jiang A**, Dufault-Thompson K, Levy S, Zhong A, Wassan JT, Grant M, Hall B, Jiang XF. “Gut Bacteria Encode Reductases that Biotransform Steroid Hormones.” (Under Review at *Nature*)
++ Arp G, **Jiang A**, Dufault-Thompson K, Levy S, Zhong A, Wassan JT, Grant M, Hall B, Jiang XF. “Gut Bacteria Encode Reductases that Biotransform Steroid Hormones.” (Under Review at *Cell Host & Microbe*)
 + Minabou GM, **Jiang A.K.**, Ravel CT, Grant MR, Jiang XF, Hall B. “Gut Microbial Utilization of the Alternative Sweetener, D-Allulose, via AlsE” (In Revision at *Communications Biology*)
-+ **Jiang A.K.**, Sehein TR, Gawron R, Katz LA, Maurer-Alcalá X. “Characterizing lineage-specific genes in testate lobose amoebae.” (Under Review at *Protist*)
++ **Jiang A.K.**, Sehein TR, Gawron R, Katz LA, Maurer-Alcalá X. “Characterizing lineage-specific genes in testate lobose amoebae.” (In Revision at *Protist*)
 
 ## Preprints
 + Arp G, **Jiang A**, Dufault-Thompson K, Levy S, Zhong A, Wassan JT, Grant M, Hall B, Jiang XF. “Gut Bacteria Encode Reductases that Biotransform Steroid Hormones.” bioRxiv, https://doi.org/10.1101/2024.10.04.616736 
