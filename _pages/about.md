@@ -11,4 +11,4 @@ I am Angela Jiang, a computational biology and bioinformatics Ph.D. student at t
 
 I received my B.A. in biological sciences from Smith College in 2023. There, I studied microbial eukaryotes under [Dr. Laura Katz](https://www.science.smith.edu/katz-lab/). My senior thesis was *Characterizing Lineage-Specific Genes in Testate Lobose Amoebae*.
 
-Outside of research, I love hiking, video games, and developing mods for games! You can check out my Minecraft bird mod [here](https://github.com/frikinzi/frikinzis_fauna).
+Outside of research, my hobbies include keeping invertebrate and aquatic pets, video games, piano, and developing mods for games. You can check out my Minecraft bird mod [here](https://github.com/frikinzi/frikinzis_fauna).
