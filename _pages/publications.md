@@ -9,6 +9,9 @@ author_profile: true
   <div class="wordwrap">You can also find my articles on <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.</div>
 {% endif %}
 
+## 2026
+7. Arp, G.A., Levy, S., **Jiang, A.K.**, Dufault-Thompson, K., Zhong, A., Grant, M.R., Li, Y., Jiang, X.F., Hall, B. SpiR is a gut microbial enzyme that drives cholesterol conversion. Nat Commun 17, 3495 (2026).
+
 ## 2025
 6. **Jiang, A.K.**, Sehein, T.R., Gawron, R., Katz, L.A. & Maurer-Alcalá, X.X. Characterizing lineage-specific genes in testate lobose amoebae (Arcellinida). *Protist* 126115 (2025) doi:10.1016/j.protis.2025.126115.
 5. Zhou, Z., **Jiang, A.K.**, Jiang, X. & Hatzios, S. K. Metabolic cross-feeding of a dietary antioxidant enhances anaerobic energy metabolism by human gut bacteria. *Cell Host & Microbe* S193131282500280X (2025) doi:10.1016/j.chom.2025.07.008.
