@@ -10,6 +10,7 @@ author_profile: true
 {% endif %}
 
 ## 2026
+8. **Jiang, A.K.**†, Grant, M.R.†, Arp, G.A., Dufault-Thompson, K., Clarke, A.M., Li, Y., Lehman, D., Jarmusch, A., Hall, B. Jiang, X.F. Discovery of BilV reveals a multienzymatic basis for bilirubin reduction across vertebrate gut microbiomes. bioRxiv (2026).
 7. Arp, G.A., Levy, S., **Jiang, A.K.**, Dufault-Thompson, K., Zhong, A., Grant, M.R., Li, Y., Jiang, X.F., Hall, B. SpiR is a gut microbial enzyme that drives cholesterol conversion. Nat Commun 17, 3495 (2026).
 
 ## 2025

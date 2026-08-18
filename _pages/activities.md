@@ -13,14 +13,14 @@ I am strongly passionate about science communication, both for a general audienc
 <img src="https://frikinzi.github.io/files/mod_downloads.png" alt="Frikinzi's Fauna downloads" width="900">
 
 
-I programmed a Minecraft avian wildlife mod that has been downloaded over 200k times. It adds a variety of realistic bird species and has an interface to learn more about each species. Check out the [GitHub](https://github.com/frikinzi/frikinzis_fauna) if you're interested! (note: the mod has been moved from Curseforge to Modrinth as of October 2024)
+I programmed a Minecraft avian wildlife mod that has been downloaded over 200k times. It adds 100+ realistic bird species and has an interface to learn more about each species. Check out the [GitHub](https://github.com/frikinzi/frikinzis_fauna) if you're interested! (note: the mod has been moved from Curseforge to Modrinth as of October 2024) The mod contains an educational Field Guide that lets players discover and learn about each animal, and also test their knowledge on ornithology and general evolution/ecology concepts.
 
 There is also a [Discord server](https://discord.com/invite/xArJJrAkBg) if you want to follow the mod's updates. 
 
 ## Maryland Day
 Maryland Day is a annual science outreach event on the University of Maryland campus, where thousands of families participate each year by visiting booths. 
 
-I volunteer at the ecology booth for Maryland Day, and am a member of the committee involved in planning and organizing the booth. I have also volunteered for the gut microbiome booth on Maryland Day.
+I volunteer at the ecology booth for Maryland Day, and am co-chair of the committee since 2024, where I directly plan and organize the booth. I have also volunteered for the gut microbiome booth on Maryland Day 2024.
 
 We aim to raise awareness about the local Maryland wildlife to families, including identifying both invasive and native species. 
 
