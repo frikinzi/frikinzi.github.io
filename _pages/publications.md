@@ -10,7 +10,8 @@ author_profile: true
 {% endif %}
 
 ## 2026
-8. **Jiang, A.K.**†, Grant, M.R.†, Arp, G.A., Dufault-Thompson, K., Clarke, A.M., Li, Y., Lehman, D., Jarmusch, A., Hall, B. Jiang, X.F. Discovery of BilV reveals a multienzymatic basis for bilirubin reduction across vertebrate gut microbiomes. bioRxiv (2026).
+9. **Jiang, A.K.†**, Arp, G.†, Kato, M.*, Brunner, T., Grant, M.R., Clarke, A.M., Sidebottom, A.M., McMillin, M., Lehmann, C.J., Odenwald, M.A., Wolfe, K.S., Patel, B.K., Odenike, O., Li, Y., Light, S.H., Hall, B., Jiang, X. SpiE is a distinct gut microbial 4-cholesten-3-one 5β-reductase that acts with SpiR to convert cholesterol to coprostanol. bioRxiv (2026), https://doi.org/10.64898/2026.10.06.757028. 
+8. **Jiang, A.K.**†, Grant, M.R.†, Arp, G.A., Dufault-Thompson, K., Clarke, A.M., Li, Y., Lehman, D., Jarmusch, A., Hall, B. Jiang, X.F. Discovery of BilV reveals a multienzymatic basis for bilirubin reduction across vertebrate gut microbiomes. bioRxiv (2026), https://doi.org/10.64898/2026.06.01.729425.
 7. Arp, G.A., Levy, S., **Jiang, A.K.**, Dufault-Thompson, K., Zhong, A., Grant, M.R., Li, Y., Jiang, X.F., Hall, B. SpiR is a gut microbial enzyme that drives cholesterol conversion. Nat Commun 17, 3495 (2026).
 
 ## 2025
